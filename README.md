@@ -1,7 +1,7 @@
 powerset
 ========
 
-ruby implementation for finding the powerset of set. 
+ruby implementation for finding all subsets of a set (all subgroups of a group or subarrays of an array). 
 for example: 
 ```ruby
 arr = [1,2,3,4]
